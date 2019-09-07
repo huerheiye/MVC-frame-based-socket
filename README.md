@@ -1,4 +1,4 @@
-基于原始 Socket, 实现 HTTP & WSGI Web 服务器+MVC Web 框架+Demo APP (用于演示)
+基于原始 Socket, HTTP & WSGI Web 服务器+MVC Web 框架+Demo APP (用于演示)
 ===
 
 
@@ -6,7 +6,7 @@
 ---
 
 - SERVER:
-    - 首先是一个 Socket 链接
+    - 开始是一个 Socket 链接
     - 面向的请求协议经过了一次升级:
         - HTTP 协议
             - 可以 解析/拼接 HTTP 报文, 完全胜任后端服务器 请求/响应 需求.
@@ -36,13 +36,13 @@
         - ![](image/request2.gif)
     - 响应报文解析:
         - ![](image/response2.gif)
-    - Demo APP 功能演示:
-        -登录
+    -  Demo APP 登录:
         - ![](image/login2.gif)
-        -注册
-        -todo的添加、修改、删除
-        - ![](image/todo-add update delete2.gif)
-        -weibo的添加、修改、删除
-        - ![](image/weibo-add update delete2.gif)
+    -  Demo APP 注册:
+        - ![](image/register2.gif)
+    - Demo APP todo 增加 :
+        - ![](image/todo-add_update_delete2.gif)
+    - Demo APP 登录:
+        - ![](image/weibo-add_update_delete2.gif)
         
 
