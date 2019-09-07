@@ -40,9 +40,9 @@
         - ![](image/login2.gif)
     -  Demo APP 注册:
         - ![](image/register2.gif)
-    - Demo APP todo 增加 :
+    - Demo APP todo 增加、编辑、删除 :
         - ![](image/todo-add_update_delete2.gif)
-    - Demo APP 登录:
+    - Demo APP weibo增加、编辑、删除:
         - ![](image/weibo-add_update_delete2.gif)
         
 
